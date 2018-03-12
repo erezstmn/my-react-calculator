@@ -1,13 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
 
-/*
-  TODO:
-    1. Enable keyboard events
-    2. commit to git
-    3. style buttons
-    4. add commas
-*/
 
 
 class App extends Component {
