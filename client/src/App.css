@@ -1,0 +1,54 @@
+.App {
+  padding-left: 45%;
+  padding-right: 35%;  
+}
+.result {
+  height: 70px;
+  width: 180px;
+  text-align: right;
+  line-height: 80px;
+  font-size: 2*20px;
+  font-weight: 100;
+  background-color: rgb(29, 26, 26);
+  color: white;
+  margin: 0;
+}
+
+
+.App-ButtonFirstRow {
+  border-width: thin;
+  width: 45px;
+  height: 45px;
+  font-size: 16px;
+  font-weight: 100;
+  background-color: silver;
+}
+.app-ButtonNumbers {
+  border-width: thin;
+  width: 45px;
+  height: 45px;
+  font-size: 16px;
+  font-weight: 100;
+  background-color: lightgray;
+  outline: none;
+}
+.app-ButtonNumbers:focus {
+  background-color: silver;
+}
+.app-ButtonOperators {
+  border-width: thin;
+  width: 45px;
+  height: 45px;
+  font-size: 16px;
+  font-weight: 100;
+  background-color: orange;
+}
+.App-Button1 {
+  border-width: thin;
+  width: 90px;
+  height: 45px;
+  font-size: 16px;
+  font-weight: 100;
+  background-color: lightgray;
+}
+
